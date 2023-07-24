@@ -3,6 +3,7 @@
 이것은 새로운 커밋을 위한 수정사항
 이것은 새로운 커밋을 위한 수정사항
 이것은 새로운 커밋을 위한 수정사항
+이것은 새로운 커밋을 위한 수정사항
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
